@@ -1,0 +1,8 @@
+customer_id,name,region,total_spend,churned
+1.0,John Doe,North,1625.0,True
+4.0,Alice Brown,East,1275.0,False
+2.0,Jane Smith,South,1225.5,False
+8.0,Grace Kim,West,1200.0,True
+6.0,Eva Martinez,South,75.0,True
+3.0,Bob Wilson,West,25.5,False
+9.0,Henry Taylor,East,25.5,True

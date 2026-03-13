@@ -1,0 +1,11 @@
+customer_id,name,email,region,signup_date,is_valid_email
+1,John Doe,john.doe@email.com,North,2023-02-20,True
+2,Jane Smith,jane.smith@email.com,South,2023-02-15,True
+3,Bob Wilson,,West,2023-03-15,False
+4,Alice Brown,alice.brown@email,East,2023-04-10,True
+5,Charlie Davis,charlie@email.com,North,2023-05-01,True
+6,Eva Martinez,eva.martinez@email.com,South,2023-06-12,True
+7,Frank Lee,frank.lee@email.com,Unknown,2023-07-20,True
+8,Grace Kim,grace.kim@email.com,West,2023-08-05,True
+9,Henry Taylor,henry.taylor@email.com,East,2023-09-10,True
+10,Iris Chen,iris.chen@email.com,North,2023-10-15,True
