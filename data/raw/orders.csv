@@ -1,0 +1,16 @@
+order_id,customer_id,product,amount,order_date,status
+101,1,Laptop,1200.00,2023-02-01,completed
+102,2,Mouse,25.50,15/03/2023,done
+103,1,Keyboard,75.00,03-10-2023,completed
+104,3,Monitor,350.00,2023-04-01,pending
+105,4,Laptop,,2023-05-15,completed
+106,5,Mouse,25.50,06-01-2023,canceled
+107,6,Keyboard,75.00,2023-07-10,completed
+108,,Monitor,350.00,2023-08-01,refunded
+109,8,Laptop,1200.00,09-05-2023,completed
+110,9,Mouse,,2023-10-01,completed
+111,10,Keyboard,75.00,2023-11-01,pending
+112,1,Monitor,350.00,2023-12-01,completed
+113,2,Laptop,1200.00,2024-01-15,completed
+114,3,Mouse,25.50,2024-02-01,done
+115,4,Keyboard,75.00,2024-03-01,completed
